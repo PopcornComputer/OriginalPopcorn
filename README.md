@@ -7,7 +7,7 @@
 **Original Popcorn™** is available for purchase in our webstore: [https://shop.popcorncomputer.com/products/original-popcorn-computer][webstore]
 
 ## Documentation
-To view the documentation stored in this repository please visit: [https://docs.popcorncomputer.com/OriginalPopcorn/][stovetop-docs]  
+To view the documentation stored in this repository please visit: [https://docs.popcorncomputer.com/OriginalPopcorn/][originalpopcorn-docs]  
 
 ## License & Copyright
 This work is licensed under a
