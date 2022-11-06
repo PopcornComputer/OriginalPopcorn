@@ -1,7 +1,7 @@
 # Original Popcorn™ Documentation
 
 **Note:** This documentation is a work in progress.  
-For more information about Original Popcorn™, please see Original Popcorn's Wiki Page: https://wiki.popcorncomputer.com/wiki/Original_Popcorn
+For more information about Original Popcorn™, please see Original Popcorn's Wiki Page: https://popcorncomputer.wiki/wiki/Original_Popcorn
 
 ## Contact
 For sales inquiries, please email: <a href="mailto:sales@source.parts">sales@source.parts</a>
